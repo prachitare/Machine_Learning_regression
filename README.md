@@ -1,4 +1,4 @@
-# Machine_Learning_regression
+# Basic data analysis
 
+This ipynb talks about telecom service churn rate basic analysis using pandas, numpy, matplotlib and seaborn.
 
-THis repository will focus on regression problem of a dataset which is inclined towards healthcare data
